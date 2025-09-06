@@ -74,3 +74,7 @@ flake8 myfile.py
 ```
 
 > ### Если в вашем коде есть ошибки, flake8 выведет список проблем с указанием номера строки и столбца.
+
+***
+
+Матиериал взят с ресурса: https://sky.pro/media/chto-takoe-pep-8-i-kak-sledovat-stilyu-kodirovaniya-v-python/?ysclid=mf7kbo6lw635499063
